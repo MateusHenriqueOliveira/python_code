@@ -1,0 +1,8 @@
+python-dotenv==0.20.0
+pandas==1.4.2
+numpy==1.22.3
+koalas==1.8.2
+pyspark==3.2.1
+SQLAlchemy==1.4.36
+PyMySQL==1.0.2
+pymssql==2.1.5
